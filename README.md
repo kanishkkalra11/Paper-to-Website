@@ -6,6 +6,6 @@ This project aims to convert a design into a website using its image. Here we ar
 The project is entirely based on OpenCv. The bounding boxes of images and text are detected and text recognition is done using tesseract open source tool. This can be found in Detection.py. The code to generate HTML can be found in printHTML.py.
 
 ## Contributors
-Kanishk Kalra
-Chandan Maji
+Kanishk Kalra  
+Chandan Maji  
 Shaurya Agarawal
